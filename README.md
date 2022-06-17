@@ -17,3 +17,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](https://opensource.org/licenses/MIT)
+
+[Proje Resmi](https://github.com/kahraman-mustafa/kodluyoruzilkrepo/blob/main/proje_resmi.png?raw=true)
